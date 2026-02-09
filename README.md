@@ -1,8 +1,8 @@
-#Raspberry Pi Pico Projects
+# Raspberry Pi Pico Projects
 
 This repository contains a collection of my Raspberry Pi Pico projects written in C using PicoSDK.
 
-##Projects
+## Projects
 
 **stopwatch**
   - Simple digital stopwatch
@@ -12,7 +12,7 @@ This repository contains a collection of my Raspberry Pi Pico projects written i
 
 Each project is located in its own folder and includes separate README file with detailed informations.
 
-##Platform and tools
+## Platform and tools
 - Raspberry Pi Pico
 - Pico SDK
 - C / CMake
