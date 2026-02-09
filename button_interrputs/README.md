@@ -3,7 +3,7 @@
 This project demonstrates controlling an LED connected to Raspberry Pi Pico using two buttons with GPIO interrupts.
 
 ## Functionality
-- Pressing the **BUTTON_ON** (GPIO 20) turns the LED (GPIO 16) ON.
+- Pressing the **BUTTON_ON** (GPIO 20) turns the LED ON (GPIO 16).
 - Pressing the **BUTTON_OFF** (GPIO 17) turns the LED OFF.
 - Uses GPIO interrupts to respond immediately to button presses.
 
