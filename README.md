@@ -11,7 +11,10 @@ This repository contains a collection of my Raspberry Pi Pico projects written i
   - LED control using button and GPIO interrupt
 
 **smart_gate_counter**
-  - Each time a car passes, the PIR sensor is triggered 
+  - Each time a car passes, the PIR sensor is triggered
+
+**presence_detection**
+  - Presence-based work/pause timer using PIR sensor
 
 Each project is located in its own folder and includes separate README file with detailed informations.
 
